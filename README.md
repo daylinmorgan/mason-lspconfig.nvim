@@ -247,6 +247,7 @@ local DEFAULT_SETTINGS = {
 | Move                                | `move_analyzer`                   |
 | Nickel                              | `nickel_ls`                       |
 | Nim                                 | `nimls`                           |
+| Nim                                 | `nim_langserver`                |
 | Nix                                 | `nil_ls`                          |
 | Nix                                 | `rnix`                            |
 | OCaml                               | `ocamllsp`                        |

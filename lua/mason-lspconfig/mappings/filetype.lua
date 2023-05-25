@@ -101,7 +101,7 @@ return {
   mysql = { "sqlls", "sqls" },
   ncl = { "nickel_ls" },
   nickel = { "nickel_ls" },
-  nim = { "nimls" },
+  nim = { "nim_langserver", "nimls" },
   nix = { "nil_ls", "rnix" },
   njk = { "tailwindcss" },
   nunjucks = { "tailwindcss" },
